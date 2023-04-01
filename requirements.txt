@@ -1,0 +1,4 @@
+pandas
+numpy
+flask
+-e . #to install in current env
